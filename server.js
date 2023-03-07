@@ -1,4 +1,4 @@
-import express from "express";
+const express=require("express")
 
 //initialising express
 const app = express();
